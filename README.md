@@ -19,5 +19,3 @@
 - E como testar a leitura de arquivos
 
 Projeto clonado do [**repositório**](https://github.com/wlsf82/cypress-intermediario-v2) do Walmyr Filho como base para o curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
-
-_
